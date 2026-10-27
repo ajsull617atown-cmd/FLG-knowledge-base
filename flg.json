@@ -1,0 +1,16 @@
+{
+  "name": "FLG Knowledge Base",
+  "type": "brain",
+  "entry": "README.md",
+  "icon": "assets/icon.png",
+  "cover": "assets/cover.png",
+  "description": "Official research, planning, documentation, roadmaps - the FLG brain",
+  "index": [
+    "AI Pillar.md",
+    "Creator Pillar.md", 
+    "FLG Business Model.md",
+    "FLG OS Alpha Roadmap.md",
+    "Gaming Pillar.md"
+  ],
+  "launchable": true
+}
